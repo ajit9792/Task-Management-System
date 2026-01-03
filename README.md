@@ -62,7 +62,7 @@ Task-Management-System/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/task-management-system.git
+git clone https://https://github.com/ajit9792/Task-Management-System
 cd task-management-system
 
 2️⃣ Backend Setup
